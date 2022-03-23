@@ -1,0 +1,222 @@
+.design{
+    padding: 5px 80px 5px 80px ;
+    background-color: rgba(251, 251, 251, 1); 
+}
+
+.Header{
+    background-color: rgba(206, 5, 5, 1) ;
+    width: 1366px;
+    height: 80px;
+    padding: 15px 100px 15px 100px;
+    display: flex;  
+    background: rgba(206, 5, 5, 1) 0% 0% no-repeat padding-box; 
+}
+
+
+.edurekalogo{
+    top: 16px;
+    left: 112px;
+    width: 32px;
+    height: 47px;
+    text-align: center;
+    font: normal normal 600 33px Poppins;
+    letter-spacing: 0px;
+    color: rgba(235, 41, 41, 1);
+    opacity: 1;
+    display: inline-block;
+    width: 52px;
+    height: 52px;
+    margin: 15px 740px 15px 0px;
+    left: 102px;
+    background-color: rgba(255, 255, 255, 1);
+    opacity: 1;
+    border-radius: 50%;
+}
+
+.b1{
+    background-color:rgba(206, 5, 5, 1) ;
+    width: 43px;
+    height: 23px;
+    text-align: center;
+    font: 500 16px Poppins;
+    letter-spacing: 0px;
+    color: rgba(255, 255, 255, 1);
+    opacity: 1;
+    margin: 0px 20px 0px 0px;
+}
+
+.b2{
+    background-color:rgba(206, 5, 5, 1) ;
+    border: 1px solid rgba(255, 255, 255, 1);
+    border-radius: 3px;
+    opacity: 1;
+    margin: 5px 0 0 10px;
+    font-family: Poppins;
+    font-size: 16px ;
+    font-weight: 500;
+    color: rgba(255, 255, 255, 1);
+}
+
+.h1{
+    color: rgba(25, 47, 96, 1);
+    text-align: left;
+    opacity: 1;
+    margin: 20px 0 20px 100px;
+    font: bold 36px Poppins;
+}
+
+.Filterpage{
+    display: inline-block;
+    height: 682px;
+    width: 260px;
+    margin: 20px 0 0 100px;
+    padding: 17px 25px 35px 26px;
+    box-shadow: 0 3px 6px 0 rgba(0, 0, 0, 0.16);
+    opacity: 1;
+    width: 12.3%;
+}
+
+.t1{
+    font:600 18px Poppins;
+    color: rgba(25, 47, 96, 1);
+    height: 25px;
+    width: 55px;
+}
+
+.s1{
+    color: rgba(25, 47, 96, 1);
+    margin: 15px 102px 11px 1px;
+    font: 14px Poppins;
+    opacity: 1;
+    text-align: left;
+    width: 106px;
+    height: 20px;
+}
+
+.SelectLocation{
+    border: 1px solid rgba(140, 150, 171, 1);
+    border-radius: 3px;
+    opacity: 1;
+    top: 278px;
+    left: 140px;
+    width: 208px;
+    height: 35px;
+}
+
+.c2{
+    font: 14px Poppins;
+    color: rgba(140, 150, 171, 1);
+    opacity: 1;
+    margin: 15px 0 10px 10px;
+}
+
+.Blockcombine{
+    vertical-align: top;
+    display: inline-block;
+    width: 794px;
+    height: 291px;
+    box-shadow: px 3px 6px rgba(0, 0, 0, 0.16);
+}
+.block2{
+    display: inline-block;
+}
+
+.Block1{
+    margin: 20px 100px 20px 30px;
+    box-shadow: 0px 3px 6px 0 rgba(0, 0, 0, 0.16);
+    display: inline-block;
+    padding: 20px 20px 20px 20px;
+    background: rgba(255, 255, 255, 1);
+    opacity: 1;
+    width: 794px;
+    height: 280px;
+
+}
+
+.i1{
+    display: inline-block;
+    width: 120px;
+    height: 120px;
+    border-radius: 10px;
+    margin: 5px 10px 10px 5px;
+}
+
+.des1{
+    position:absolute ;
+    margin: 20px 40px 10px 20px;
+    display: inline-block;
+    vertical-align: right;
+}
+
+.Hotel{
+    display: inline-block;
+    font: 600 24px Poppins;
+    vertical-align: top;
+    line-height: 1.5;
+    color: rgba(25, 47, 96, 1);
+    text-align: left;
+}
+.p1{
+    font: 500 16px Poppins;
+    line-height: 1.8;
+    color: rgba(25, 47, 96, 1);
+}
+
+.p2{
+    color: rgba(99, 111, 136, 1);
+    font: 16px Poppins;
+    line-height: 1.5;
+}
+
+.partition{
+    width: 600px;
+    height: 0;
+    margin: 15px 0 0 10px;
+    border: solid 1px #dedfe5;
+}
+
+.part11{
+    width: 600px;
+    height: 194px;
+    /* border: 1px solid; */
+    margin: 0px 0 0 10px;
+    
+}
+
+.part12{
+    width: 140px;
+    height: 118px;
+    margin: 30px 0 0 10px;
+    font: 16px Poppins ;
+    display: inline-block;
+    line-height: 2.0;
+    color: rgba(99, 111, 136, 1);
+}
+
+.part13{
+    width: 215px;
+    height: 69px;
+    display: inline-block;
+    font: 16px Poppins;
+    color: rgba(25, 47, 96, 1);
+    opacity:
+}
+
+.scroll{
+    display: inline-block;
+    margin: 10px 30px 30px 215px;
+}
+.b3{
+    display: inline-block;
+    font: 500 20px Poppins ;
+    background-color: rgba(255, 255, 255, 1);
+    border: 1px solid rgba(140, 150, 171, 1);
+    opacity: 1;
+    text-align: center;
+    padding: 3px 10px 3px;
+    margin: 0 5px 0 5px;
+    width: 36px;
+    height: 36px;
+    border-radius: 7px;
+    color: rgba(140, 150, 171, 1);
+}
